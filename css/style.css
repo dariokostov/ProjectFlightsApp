@@ -1,0 +1,293 @@
+body {
+    background-color: white;
+}
+
+#logo-nav{
+    width: auto;
+    height: 50px;
+    position: absolute;
+    right: 1%;
+}
+
+#main-card {
+    height: 450px;
+    background-color: rgb(2, 33, 67);
+    text-align: center;
+    border-radius: 0%;
+}
+
+#main-card-content {
+    padding-top: 130px;
+}
+
+button {
+    width: 250px;
+    height: 75;
+}
+
+#btn-hotels {
+    background-color: rgb(255, 96, 0);
+    border: 1px solid rgb(255, 96, 0);
+    color: white;
+    margin: 3px;
+}
+
+#btn-flights {
+    background-color: rgb(46, 134, 185);
+    border: 1px solid rgb(46, 134, 185);
+    color: white;
+    margin: 3px;
+}
+
+#btn-flights:hover,
+#btn-hotels:hover {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+#main-nav-bar {
+    height: 200px;
+    font-size: 70px;
+    text-align: center;
+}
+
+#logo {
+    margin-top: 25px;
+    width: 60%;
+    height: auto;
+}
+
+.nav {
+    padding-top: 10px;
+    background-color: rgb(2, 33, 67);
+}
+
+#flights-hotel-btn {
+    background-color: rgb(255, 96, 0);
+    color: white;
+}
+
+#hotels-flight-btn {
+    background-color: rgb(46, 134, 185);
+    color: white;
+}
+
+.nav-link {
+    margin-left: 3px;
+}
+
+.input-group-text {
+    border: none;
+}
+
+.flights-label-text {
+    background-color: rgb(46, 134, 185);
+    color: white;
+    border: 1px solid gray;
+}
+
+#flights-search-btn {
+    border-radius: 0 20px 20px 0;
+    background-color: rgb(46, 134, 185);
+    color: white;
+    border: none;
+}
+
+#flights-from {
+    border-radius: 20px 0px 0px 20px;
+}
+
+#flights-main-div {
+    background-color: white;
+}
+
+#login-form {
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 10%;
+
+}
+
+#main-login-btn {
+    width: 160px;
+
+}
+
+#register-btn {
+    width: 160px;
+
+}
+
+#register-form {
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 10%;
+}
+
+#cardMainDiv {
+    margin: 20px;
+}
+
+#cardContent {
+    margin: 5px;
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+#cardContentPrice {
+    text-align: right;
+}
+
+#cardContentScroll {
+    width: auto;
+    height: 100px;
+    overflow: scroll;
+}
+
+.card-header {
+    color: rgb(46, 134, 185);
+}
+
+.btn-primary {
+    background-color: rgb(46, 134, 185);
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: rgb(255, 96, 0);
+
+}
+
+#flights-animation-loading {
+    margin: 20px;
+    text-align: center;
+}
+
+#flights-cards-pages {
+    padding-left: 23px;
+}
+
+#filter-btn-cards {
+    width: 160px;
+    height: auto;
+}
+
+.slidecontainer {
+    width: 100%;
+    /* Width of the outside container */
+}
+
+/* The slider itself */
+.slider {
+    -webkit-appearance: none;
+    /* Override default CSS styles */
+    appearance: none;
+    width: 100%;
+    /* Full-width */
+    height: 25px;
+    /* Specified height */
+    background: #d3d3d3;
+    /* Grey background */
+    outline: none;
+    /* Remove outline */
+    opacity: 0.7;
+    /* Set transparency (for mouse-over effects on hover) */
+    -webkit-transition: .2s;
+    /* 0.2 seconds transition on hover */
+    transition: opacity .2s;
+    border-radius: 6px;
+}
+
+/* Mouse-over effects */
+.slider:hover {
+    opacity: 1;
+    /* Fully shown on mouse-over */
+    border-radius: 6px;
+}
+
+/* The slider handle (use -webkit- (Chrome, Opera, Safari, Edge) and -moz- (Firefox) to override default look) */
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    /* Override default look */
+    appearance: none;
+    width: 25px;
+    /* Set a specific slider handle width */
+    height: 25px;
+    /* Slider handle height */
+    background: rgb(46, 134, 185);
+    /* Green background */
+    cursor: pointer;
+    /* Cursor on hover */
+    border-radius: 6px;
+}
+
+.slider::-moz-range-thumb {
+    width: 25px;
+    /* Set a specific slider handle width */
+    height: 25px;
+    /* Slider handle height */
+    background: rgb(46, 134, 185);
+    /* Green background */
+    cursor: pointer;
+    /* Cursor on hover */
+    border-radius: 6px;
+}
+
+#footer {
+    /* margin-top: 40px; */
+    text-align: center;
+    background-color: rgb(46, 134, 185);
+}
+
+#footer>a>img {
+    margin: 20px;
+}
+
+#sup-footer {
+    padding: 5px;
+}
+
+#copyright {
+    float: right;
+}
+
+#popular-destination {
+    padding-top: 20px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+
+.card:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#ad-space-one-div, #ad-space-two-div{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-image: url("https://air.hr/ekbanner.jpg");
+    /* The image used */
+    background-color: #cccccc;
+    /* Used if the image is unavailable */
+    height: 500px;
+    /* You must set a specified height */
+    background-position: center;
+    /* Center the image */
+    background-repeat: no-repeat;
+    /* Do not repeat the image */
+    background-size: cover;
+    /* Resize the background image to cover the entire container */
+    /* background-color: rgb(0, 0, 0); */
+    width: auto;
+    height: 150px;
+}
+
+/* hotels */
+
+#under-construction {
+    text-align: center;
+    color: white;
+}
+
+#body-hotel {
+    background-color: rgb(75, 82, 219)
+}

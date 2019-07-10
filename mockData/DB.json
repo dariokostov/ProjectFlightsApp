@@ -1,0 +1,235 @@
+{
+    "Array": [
+        {
+            "id": "mocsow",
+            "title": "Red Square, Moscow",
+            "description": "Red Square is a city square in Moscow, Russia. It separates the Kremlin, the former royal citadel and now the official residence of the President of Russia, from a historic merchant quarter known as Kitai-gorod.",
+            "img": "https://lonelyplanetwp.imgix.net/2015/04/State-History-Museum-Red-Square-Moscow_cs.jpg?fit=min&q=40&sharp=10&vib=20&w=1470",
+            "deepLink": "https://en.wikipedia.org/wiki/Red_Square"
+        },
+        {
+            "id": "mocsow",
+            "title": "St. Basil's Cathedral, Moscow",
+            "description": "The Cathedral of Vasily the Blessed, commonly known as Saint Basil's Cathedral, is a church in Red Square in Moscow, Russia and is one of the most recognizable symbols of the country.",
+            "img": "https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/f_auto,q_auto,w_1100/v1555344331/shape/mentalfloss/istock_000024469192_small.jpg",
+            "deepLink": "https://en.wikipedia.org/wiki/Saint_Basil%27s_Cathedral"
+        },
+        {
+            "id": "mocsow",
+            "title": "Moscow, Russia",
+            "description": "Moscow, on the Moskva River in western Russia, is the nation’s cosmopolitan capital. In its historic core is the Kremlin, a complex that’s home to the president and tsarist treasures in the Armoury. Outside its walls is Red Square, Russia's symbolic center. It's home to Lenin’s Mausoleum, the State Historical Museum's comprehensive collection and St. Basil’s Cathedral, known for its colorful, onion-shaped domes.",
+            "img": "https://www.riotgames.com/darkroom/1440/e729557d83532c5777833a6b883e1969:49a8674cebb9aff914c6e48eab863f0f/shutterstock-599314052.jpg",
+            "deepLink": "https://en.wikipedia.org/wiki/Moscow"
+        },
+        {
+            "id": "london",
+            "title": "Big Ben, London",
+            "description": "Big Ben is the nickname for the Great Bell of the clock at the north end of the Palace of Westminster in London and is usually extended to refer to both the clock and the clock tower.",
+            "img": "https://images.theconversation.com/files/182776/original/file-20170821-27160-1kwep4u.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip",
+            "deepLink": "https://en.wikipedia.org/wiki/Big_Ben"
+        },
+        {
+            "id": "london",
+            "title": "Wembley, London",
+            "description": "Wembley Stadium (branded as Wembley Stadium connected by EE for sponsorship reasons) is a football stadium in Wembley, London, which opened in 2007, on the site of the original Wembley Stadium, which was demolished from 2002–2003.[8][9] The stadium hosts major football matches including home matches of the England national football team, and the FA Cup Final. The stadium was also the temporary home of Premier League football club Tottenham Hotspur between August 2017 and March 2019, while White Hart Lane was being demolished and their new stadium was constructed.",
+            "img": "https://e3.365dm.com/17/04/768x432/1c2782e3caf88193c5657dc5d9ddc682686a46401fbdafffb25fb9cd13c30d6d_3940794.jpg?20170428175450",
+            "deepLink": "https://en.wikipedia.org/wiki/Wembley_Stadium"
+        },
+        {
+            "id": "london",
+            "title": "London, England",
+            "description": "London, the capital of England and the United Kingdom, is a 21st-century city with history stretching back to Roman times. At its centre stand the imposing Houses of Parliament, the iconic ‘Big Ben’ clock tower and Westminster Abbey, site of British monarch coronations. Across the Thames River, the London Eye observation wheel provides panoramic views of the South Bank cultural complex, and the entire city.",
+            "img": "https://cdn.pixabay.com/photo/2017/05/16/13/46/british-2317820_960_720.jpg",
+            "deepLink": "https://en.wikipedia.org/wiki/London"
+        },
+        {
+            "id": "paris",
+            "title": "Eiffel Tower, Paris",
+            "description": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower.",
+            "img": "https://www.worldatlas.com/r/w728-h425-c728x425/upload/09/04/49/untitled-design-374.jpg",
+            "deepLink": "https://en.wikipedia.org/wiki/Eiffel_Tower"
+        },
+        {
+            "id": "paris",
+            "title": "Arc de Triomphe, Paris",
+            "description": "The Arc de Triomphe de l'Étoile is one of the most famous monuments in Paris, France, standing at the western end of the Champs-Élysées at the centre of Place Charles de Gaulle, formerly named Place de l'Étoile — the étoile or star of the juncture formed by its twelve radiating avenues.",
+            "img": "https://aws-tiqets-cdn.imgix.net/images/content/38c72c4561e14992b7ef20ec7ec2b41b.jpg?auto=format&fit=crop&ixlib=python-1.1.2&q=25&s=183c3804dd9686b4129b7b7ecac74bae&w=400&h=320&dpr=2.625",
+            "deepLink": "https://en.wikipedia.org/wiki/Arc_de_Triomphe"
+        },
+        {
+            "id": "paris",
+            "title": "Paris, France",
+            "description": "Paris, France's capital, is a major European city and a global center for art, fashion, gastronomy and culture. Its 19th-century cityscape is crisscrossed by wide boulevards and the River Seine. Beyond such landmarks as the Eiffel Tower and the 12th-century, Gothic Notre-Dame cathedral, the city is known for its cafe culture and designer boutiques along the Rue du Faubourg Saint-Honoré.",
+            "img": "https://europeanbusinessmagazine.com/wp-content/uploads/2017/07/paris.jpg",
+            "deepLink": "https://en.wikipedia.org/wiki/Paris"
+        },
+        {
+            "id": "skopje",
+            "title": "Skopje Fortress, Skopje",
+            "description": "The Skopje Fortress, commonly referred to as Kale, is a historic fortress located in the old town of Skopje, the capital of North Macedonia. It is located in Centar municipality and situated on the highest point in the city overlooking the Vardar River.",
+            "img": "http://www.exploringmacedonia.com/content/top.jpg",
+            "deepLink": "https://en.wikipedia.org/wiki/Skopje_Fortress"
+        },
+        {
+            "id": "skopje",
+            "title": "Matka Canyon, Skopje",
+            "description": "Matka is a canyon located west of central Skopje, North Macedonia. Covering roughly 5,000 hectares, Matka is one of the most popular outdoor destinations in Macedonia and is home to several medieval monasteries. The Matka Lake within the Matka Canyon is the oldest artificial lake in the country.",
+            "img": "https://i1.wp.com/www.discoveringmacedonia.com/wp-content/uploads/2018/01/IMG_4281-1.jpg?fit=1000%2C750&ssl=1",
+            "deepLink": "https://en.wikipedia.org/wiki/Matka_Canyon"
+        },
+        {
+            "id": "skopje",
+            "title": "Skopje, Macedonia",
+            "description": "Skopje is the capital of the Republic of Macedonia, in the center of the Balkan Peninsula. Over time it has experienced Roman, Byzantine and Ottoman rule. The 15th-century Stone Bridge connects the Ottoman Old Bazaar (Čaršija) on the Vardar River‘s north bank with Macedonia Square and a statue of Alexander the Great to the south. The Skopje Fortress, or Kale, overlooking the river has defended the city for centuries.",
+            "img": "https://s27412.pcdn.co/wp-content/uploads/2019/01/View-on-Stone-bridge-from-Oko-bridge-in-Skopje-macedonia_shutterstock_289286840.jpg",
+            "deepLink": "https://en.wikipedia.org/wiki/Skopje"
+        },
+        {
+            "id": "rome",
+            "title": "Colosseum, Rome",
+            "description": "The Colosseum or Coliseum, also known as the Flavian Amphitheatre, is an oval amphitheatre in the centre of the city of Rome, Italy. Built of travertine, tuff, and brick-faced concrete, it is the largest amphitheatre ever built. The Colosseum is situated just east of the Roman Forum.",
+            "img": "https://aws-tiqets-cdn.imgix.net/images/content/cc069f0017d64274adb0ac688d2245a1.jpg?auto=format&fit=crop&ixlib=python-1.1.2&q=25&s=15b61dfbaca304b5367ae783e9b01d2f&w=400&h=320&dpr=2.625",
+            "deepLink": "https://en.wikipedia.org/wiki/Colosseum"
+        },
+        {
+            "id": "rome",
+            "title": "Trevi Fountain, Rome",
+            "description": "The Trevi Fountain is a fountain in the Trevi district in Rome, Italy, designed by Italian architect Nicola Salvi and completed by Giuseppe Pannini and several others. Standing 26.3 metres high and 49.15 metres wide, it is the largest Baroque fountain in the city and one of the most famous fountains in the world.",
+            "img": "https://www.tripsavvy.com/thmb/zbeV0xRNDsQb4qHZW_jIsFFbsA8=/2256x1496/filters:fill(auto,1)/DSC_0017-5c76c3edc9e77c0001f57b49.jpg",
+            "deepLink": "https://en.wikipedia.org/wiki/Trevi_Fountain"
+        },
+        {
+            "id": "rome",
+            "title": "Rome, Italy",
+            "description": "Rome, Italy’s capital, is a sprawling, cosmopolitan city with nearly 3,000 years of globally influential art, architecture and culture on display. Ancient ruins such as the Forum and the Colosseum evoke the power of the former Roman Empire. Vatican City, headquarters of the Roman Catholic Church, has St. Peter’s Basilica and the Vatican Museums, which house masterpieces such as Michelangelo’s Sistine Chapel frescoes.",
+            "img": "https://brightcove04pmdo-a.akamaihd.net/5104226627001/5104226627001_5232386545001_5215063851001-vs.jpg?pubId=5104226627001&videoId=5215063851001",
+            "deepLink": "https://en.wikipedia.org/wiki/Rome"
+        },
+        {
+            "id": "madrid",
+            "title": "Santiago Bernabéu Stadium, Madrid",
+            "description": "The Santiago Bernabéu Stadium is a football stadium in Madrid, Spain. With a current seating capacity of 81,044, it has been the home stadium of Real Madrid since its completion in 1947. The Santiago Bernabéu is one of the world's most famous football venues.",
+            "img": "https://www.realmadrid.com/img/horizontal_940px/horizontal3estadio_3am4761.jpg",
+            "deepLink": "https://en.wikipedia.org/wiki/Santiago_Bernab%C3%A9u_Stadium"
+        },
+        {
+            "id": "madrid",
+            "title": "Royal Palace of Madrid, Madrid",
+            "description": "The Royal Palace of Madrid is the official residence of the Spanish Royal Family at the city of Madrid, although now only used for state ceremonies. The palace has 135,000 square metres of floor space and contains 3,418 rooms. It is the largest functioning Royal Palace and the largest by floor area in Europe.",
+            "img": "https://cdn.getyourguide.com/img/tour_img-482428-148.jpg",
+            "deepLink": "https://en.wikipedia.org/wiki/Royal_Palace_of_Madrid"
+        },
+        {
+            "id": "madrid",
+            "title": "Madrid, Spain",
+            "description": "Madrid, Spain's central capital, is a city of elegant boulevards and expansive, manicured parks such as the Buen Retiro. It’s renowned for its rich repositories of European art, including the Prado Museum’s works by Goya, Velázquez and other Spanish masters. The heart of old Hapsburg Madrid is the portico-lined Plaza Mayor, and nearby is the baroque Royal Palace and Armory, displaying historic weaponry.",
+            "img": "https://st3.idealista.com/cms/archivos/styles/idcms_social_tablet/public/2018-06/news/madrid%20gtres.jpg?fv=8WmQP0VL&itok=DC3tNQ_1",
+            "deepLink": "https://en.wikipedia.org/wiki/Madrid"
+        },
+        {
+            "id": "barcelona",
+            "title": "La Sagrada Familia, Barcelona",
+            "description": "The Temple Expiatori de la Sagrada Família is a large unfinished Roman Catholic church in Barcelona. Designed by Catalan architect Antoni Gaudí, his work on the building is part of a UNESCO World Heritage Site. In November 2010, Pope Benedict XVI consecrated the church and proclaimed it a minor basilica.",
+            "img": "https://images.adsttc.com/media/images/57fe/7725/e58e/cef4/c400/003a/newsletter/Sagrada_Familia_haschelsax_02.jpg?1476294424",
+            "deepLink": "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia"
+        },
+        {
+            "id": "barcelona",
+            "title": "Magic Fountain of Montjuïc, Barcelona",
+            "description": "The Magic Fountain of Montjuïc is a fountain located at the head of Avinguda Maria Cristina in the Montjuïc neighborhood of Barcelona, Catalonia, Spain. The fountain is situated below the Palau Nacional on the Montjuïc mountain and near the Plaça d'Espanya and Poble Espanyol de Barcelona.",
+            "img": "https://www.barcelona-life.com/wp-content/uploads/2018/03/magic-fountain-show-tour.jpg",
+            "deepLink": "https://en.wikipedia.org/wiki/Magic_Fountain_of_Montju%C3%AFc"
+        },
+        {
+            "id": "barcelona",
+            "title": "Barcelona, Spain",
+            "description": "Barcelona, the cosmopolitan capital of Spain’s Catalonia region, is known for its art and architecture. The fantastical Sagrada Família church and other modernist landmarks designed by Antoni Gaudí dot the city. Museu Picasso and Fundació Joan Miró feature modern art by their namesakes. City history museum MUHBA, includes several Roman archaeological sites.",
+            "img": "http://www.irishnomad.me/wp-content/uploads/2014/08/Barcelona.jpg",
+            "deepLink": "https://en.wikipedia.org/wiki/Barcelona"
+        },
+        {
+            "id": "frankfurt",
+            "title": "River Main, Frankfurt",
+            "description": "The Main is a river in Germany. With a length of 525 kilometres (326 mi) (including its 52 km long source river White Main), it is the longest right tributary of the Rhine. It is also the longest river lying entirely in Germany (if the Weser and the Werra are considered as two separate rivers; together they are longer). The largest cities along the Main are Frankfurt am Main and Würzburg.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/b/b0/W%C3%BCrzburg_L%C3%B6wenbr%C3%BCcke.jpg",
+            "deepLink": "https://en.wikipedia.org/wiki/Main_(river)"
+        },
+        {
+            "id": "frankfurt",
+            "title": "Main Tower, Frankfurt",
+            "description": "Main Tower is a 56-storey, 200 m skyscraper in the Innenstadt district of Frankfurt, Germany. It is named after the nearby Main river. The building is 240 m when its antenna spire is included. The tower has five underground floors and two public viewing platforms.",
+            "img": "https://image.tomas.travel/nds/repository/NDS00020140039693870/TBX00020050000221441/NDS00020140041318351_sized_800_0.jpg",
+            "deepLink": "https://en.wikipedia.org/wiki/Main_Tower"
+        },
+        {
+            "id": "frankfurt",
+            "title": "Frankfurt, Germany",
+            "description": "Frankfurt, a central German city on the river Main, is a major financial hub that's home to the European Central Bank. It's the birthplace of famed writer Johann Wolfgang von Goethe, whose former home is now the Goethe House Museum. Like much of the city, it was damaged during World War II and later rebuilt. The reconstructed Altstadt (Old Town) is the site of Römerberg, a square that hosts an annual Christmas market.",
+            "img": "https://d2bq2usf2vwncx.cloudfront.net/Pictures/2000x2000fit/7/4/4/1835744_pw080319_frankfurt_shutterstock_478007047_credrudybalasko_493373.jpg",
+            "deepLink": "https://en.wikipedia.org/wiki/Frankfurt"
+        },
+        {
+            "id": "dubai",
+            "title": "Burj Khalifa, Dubai",
+            "description": "The Burj Khalifa, known as the Burj Dubai prior to its inauguration in 2010, is a skyscraper in Dubai, United Arab Emirates. With a total height of 829.8 m and a roof height of 828 m, the Burj Khalifa has been the tallest structure and building in the world since its topping out in 2009.",
+            "img": "https://www.burjkhalifa.ae/images/home-bg.jpg",
+            "deepLink": "https://en.wikipedia.org/wiki/Burj_Khalifa"
+        },
+        {
+            "id": "dubai",
+            "title": "Dubai Fountain, Dubai",
+            "description": "The Dubai Fountain is the world's largest choreographed fountain system. It is set on the 30-acre manmade Burj Khalifa Lake, at the center of the Downtown Dubai development in Dubai, United Arab Emirates.",
+            "img": "https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1295,h_720,f_auto/w_80,x_15,y_15,g_south_west,l_klook_water/activities/h46cvv3cnnkbl22m0e0q/DubaiFountainLakeRide.jpg",
+            "deepLink": "https://en.wikipedia.org/wiki/The_Dubai_Fountain"
+        },
+        {
+            "id": "dubai",
+            "title": "Dubai, United Arab Emirates",
+            "description": "Dubai is a city and emirate in the United Arab Emirates known for luxury shopping, ultramodern architecture and a lively nightlife scene. Burj Khalifa, an 830m-tall tower, dominates the skyscraper-filled skyline. At its foot lies Dubai Fountain, with jets and lights choreographed to music. On artificial islands just offshore is Atlantis, The Palm, a resort with water and marine-animal parks.",
+            "img": "https://pix10.agoda.net/geo/city/2994/1_2994_02.jpg?s=1920x822",
+            "deepLink": "https://en.wikipedia.org/wiki/Dubai"
+        }
+    ],
+    "Partners": [
+        {
+            "deepLink": "https://www.turkishairlines.com/",
+            "img": "https://cdn.freebiesupply.com/logos/large/2x/turkish-airlines-logo-png-transparent.png"
+        },
+        {
+            "deepLink": "https://wizzair.com/en-gb#/",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Wizz_Air_logo.svg/1280px-Wizz_Air_logo.svg.png"
+        },
+        {
+            "deepLink": "https://www.lufthansa.com/de/de/homepage",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Lufthansa_Logo_%28Crane%29.svg/1026px-Lufthansa_Logo_%28Crane%29.svg.png"
+        },
+        {
+            "deepLink": "https://www.emirates.com/english/",
+            "img": "http://pluspng.com/img-png/emirates-png-download-1600.png"
+        },
+        {
+            "deepLink": "https://www.ryanair.com/gb/en/",
+            "img": "https://cdn.airshop.gr/airlines/logos/250/xRyanair.png.pagespeed.ic.YrOcu6ekQg.png"
+        },
+        {
+            "deepLink": "https://www.delta.com/",
+            "img": "https://1000logos.net/wp-content/uploads/2017/09/Delta-Air-Lines-Logo.png"
+        },
+        {
+            "deepLink": "https://www.aa.com/homePage.do?locale=en_US",
+            "img": "https://sctem.org/wp-content/uploads/2017/07/AmericanAirlineNewLogo-300x256.png"
+        },
+        {
+            "deepLink": "https://www.virgin.com/gateways/virginairlines",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Virgin-logo.svg/1170px-Virgin-logo.svg.png"
+        },
+        {
+            "deepLink": "https://www.airserbia.com/",
+            "img": "http://e-herc.com/wp-content/uploads/2014/04/AIR-SERBIA-_-FINAL-LOGO-02.png"
+        },
+        {
+            "deepLink": "https://www.iberia.com/",
+            "img": "https://www.iberia.com/wcs/imagenes/partners/iberia/logo-iberia.png"
+        }
+    ]
+}
